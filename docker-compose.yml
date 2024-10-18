@@ -25,6 +25,7 @@ services:
       ENABLE_RCON: "FALSE"
       REPLACE_ENV_VARIBLES: "TRUE"
       ENV_VARIBLE_PREFIX: "CFG_"
+      #MOTD: PMC03b0e4dd76bff7dc2491fc7db109e1f4
       MOTD: §l§cMinecraft§r
       MAX_WORLD_SIZE: 10000
       OPS: |
